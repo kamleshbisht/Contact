@@ -1,5 +1,6 @@
 # Contact
-Backbonejs and Nodejs and MongoDB is used 
+This is my first application using
+Backbonejs and Nodejs and MongoDB
 Functions :
 To Show All Contacts,
 Add New Contacs,
