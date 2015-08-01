@@ -1,6 +1,6 @@
 # Contact
 This is my first application using
-Backbonejs and Nodejs and MongoDB
+Backbone.js and Node.js and MongoDB
 Functions :
 To Show All Contacts,
 Add New Contacs,
